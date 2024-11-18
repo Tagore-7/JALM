@@ -1,4 +1,4 @@
-# JALM
+# JALM - JOB APPLYING LANGUAGE MODEL
 This is tool designed to fully automate the Job Application Process. 
 
 Protytpe Idea: All you have to do just upload the job application link and resume. 
